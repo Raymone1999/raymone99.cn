@@ -1,0 +1,13 @@
+.qqimg {
+    display: block;
+    height: 300px;
+}
+
+ul a {
+    color: #56b3df;
+    text-decoration: none;
+}
+
+ul a:hover {
+    color: #06549c;
+}
